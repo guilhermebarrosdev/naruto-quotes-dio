@@ -1,23 +1,31 @@
-Projeto pensado e inicializado com tests unitários TDD e seguindo boas praticas, utilizado styled-components para 
-estilização dos componentes usando o css-in-js. Projeto simples que troca frases(puxadas de uma API) e emite um som.
+![Screenshot_1](https://user-images.githubusercontent.com/79946114/132094724-586c6b74-1083-4f35-ae6b-f09f6d9a9f95.png)
 
-# Naruto Quotes Client
-Naruto quotes generator client for DIO lesson.
+# Um projeto feito no bootcamp da [DIO](https://digitalinnovation.one/) (Digital Innovation One)
 
-![screenshot](screenshot.png?raw=true "screenshot")
+## Recebe dados de uma API que gera frases aleatórias dos personagens de Naruto.
 
-# Install
-Clone this repository and install it dependencies with this command:
-```sh
-$ npm install
-```
+### Clone o projeto
 
-# Running
-Run the application with `npm start` command, it will start the app on [localhost:3000](http://localhost:3000):
-```sh
-$ npm start
-```
+### Em naruto-quotes-server-main, rode o comando
 
-# License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+#### `pip install -r requirements.txt`
 
+### E depois
+
+#### `python app.py`
+
+### Na raiz, digite no terminal
+
+#### `npm i`
+
+Instala as dependências
+
+### Depois, rode o projeto com
+
+#### `npm start`
+
+Irá abrir uma guia na URL [http://localhost:3000/](http://localhost:3000)
+
+###### Meus **contatos**
+
+  * meu linkedIn: <a href="https://www.linkedin.com/in/guilhermebarros9/" target="_blank">Guilherme Barros</a>
